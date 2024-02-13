@@ -1,3 +1,4 @@
 # test-rebase
 
+hallo
 foo
