@@ -3,3 +3,5 @@
 foo
 
 rebase
+
+rebase 2
