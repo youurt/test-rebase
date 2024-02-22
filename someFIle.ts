@@ -13,3 +13,7 @@ export const someOtherFunction2 = () => {
 export const someOtherFunction3 = () => {
   return "Hello World 5";
 };
+
+export const someOtherFunc = () => {
+  return "Hello Worldddd";
+};
